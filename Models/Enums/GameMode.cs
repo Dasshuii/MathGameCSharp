@@ -2,7 +2,7 @@
 {
     enum GameMode
     {
-        ADDITION,
+        ADDITION = 1,
         SUBTRACTION,
         MULTIPLICATION,
         DIVISION,

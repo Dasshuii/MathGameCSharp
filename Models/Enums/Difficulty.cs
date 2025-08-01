@@ -2,7 +2,7 @@
 {
     enum Difficulty
     {
-        EASY,
+        EASY = 1,
         MEDIUM,
         HARD
     }
