@@ -35,4 +35,4 @@ A console-based math game that helps users practice basic arithmetic operations 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dasshuii/MathGame.git
+   git clone https://github.com/Dasshuii/MathGameCSharp.git
